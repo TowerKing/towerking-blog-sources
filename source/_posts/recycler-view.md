@@ -1,6 +1,9 @@
 ---
 title: "RecyclerView的使用入门"
 layout: post
+date: 2016-01-13
+updated: 2016-07-02
+categories: Android
 comments: true
 description: "RecyclerView比ListView更加好用"
 ---

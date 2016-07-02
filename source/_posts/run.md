@@ -1,6 +1,9 @@
 ---
 title: "从开始跑步到现在，断断续续的也有六、七年了"
 layout: post
+date: 2015-12-27
+updated: 2016-07-02
+categories: 跑步
 comments: true
 description: "关于跑步的一些乱七八糟的想法"
 ---

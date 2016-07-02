@@ -1,5 +1,10 @@
 ---
 title: 勒布朗（LeBlanc）法则
+date: 2016-01-28
+updated: 2016-07-02
+categories: 读书笔记
+tags: 代码整洁之道
+comments: true
 description: 我们都曾经瞟一眼自己亲手造成的混乱，决定弃之而不顾，走向新一天。我们都曾经看到自己的烂程序居然能运行，然后断言能运行的烂程序总比什么都没有强。我们曾经说过有朝一日再回头清理。当然，在那些日子里，我们都没听过勒布朗（LeBlanc）法则：稍后等于永不（Later equals never）
 ---
 

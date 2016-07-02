@@ -1,6 +1,9 @@
 ---
 title: "一个单词拼写错误引发的效率低下"
 layout: post
+date: 2016-01-06
+updated: 2016-07-02
+categories: Android
 comments: true
 description: "集成友盟时，出现的一个错误"
 ---

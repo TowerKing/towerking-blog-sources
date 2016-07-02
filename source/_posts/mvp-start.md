@@ -1,6 +1,9 @@
 ---
 title: "MVP初识"
 layout: post
+date: 2016-01-08
+updated: 2016-07-02
+categories: Android
 description: "MVP的学习，理论上的一些认识"
 ---
 

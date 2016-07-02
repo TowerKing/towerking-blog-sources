@@ -1,6 +1,9 @@
 ---
 title: "为何买个东西也会紧张"
 layout: post
+date: 2016-01-01
+updated: 2016-07-02
+categories: 杂谈
 description: "去苹果实体店想买一个Macbook Pro居然会感到紧张，值得深思"
 ---
 

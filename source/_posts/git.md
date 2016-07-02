@@ -1,6 +1,9 @@
 ---
 title: "从Git最佳实践中获得的思考"
 layout: post
+date: 2015-12-26
+updated: 2016-07-02
+categories: git
 comments: true
 description: "看完一篇git最佳实践，并理解之后的一些感想"
 ---

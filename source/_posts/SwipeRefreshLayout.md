@@ -1,6 +1,9 @@
 ---
 title: "SwipeRefreshLayout程序自动触发"
 layout: post
+date: 2016-01-15
+updated: 2016-07-02
+categories: Android
 comments: true
 description: "SwipeRefreshLayout程序自动触发，首次加载的时候就可以看到下拉圈"
 ---
@@ -48,4 +51,3 @@ swipeRefreshLayout.post(new Runnable() {
     }
 });
 ```
-

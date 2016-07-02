@@ -1,6 +1,9 @@
 ---
 title: "关于计划与规则，我的思考"
 layout: post
+date: 2015-12-25
+updated: 2016-07-02
+categories: 杂谈
 comments: true
 description: "根据过往经验，简单述说我对计划和规则的想法"
 ---

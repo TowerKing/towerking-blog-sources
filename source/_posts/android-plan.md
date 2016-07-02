@@ -1,7 +1,9 @@
 ---
 title: "Android博客系列计划"
 layout: post
-description: "关于Android系列的计划"
+date: 2016-01-05
+updated: 2016-07-02
+categories: Android
 ---
 
 ##### 写在前面的话

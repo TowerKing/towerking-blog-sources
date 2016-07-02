@@ -1,6 +1,9 @@
 ---
 title: "关于死循环我是这么想的"
 layout: post
+date: 2016-01-05
+updated: 2016-07-02
+categories: 杂谈
 comments: true
 description: "关于死循环我是这么想的"
 ---

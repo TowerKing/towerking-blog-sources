@@ -1,6 +1,9 @@
 ---
 title: "安卓开发问题碎片汇总"
 layout: post
+date: 2015-12-23
+updated: 2016-07-02
+categories: Android
 comments: true
 description: "工作或者学习过程中遇到的关于Android的问题整合"
 ---

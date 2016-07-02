@@ -1,6 +1,9 @@
 ---
 title: "一点点开始"
 layout: post
+date: 2015-12-23
+updated: 2016-07-02
+categories: 杂谈
 comments: true
 ---
 

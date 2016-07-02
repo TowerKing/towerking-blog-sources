@@ -1,6 +1,9 @@
 ---
 title: "半马与全马有什么不同"
 layout: post
+date: 2015-12-30
+updated: 2016-07-02
+categories: 杂谈
 comments: true
 description: "关于自己半马与全马的感受"
 ---

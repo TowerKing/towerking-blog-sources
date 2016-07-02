@@ -1,6 +1,9 @@
 ---
 title: "关于隐性成本的浅识"
 layout: post
+date: 2016-01-14
+updated: 2016-07-02
+categories: 杂谈
 comments: true
 description: "关于隐性成本的简单看法"
 ---

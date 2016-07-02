@@ -1,6 +1,9 @@
 ---
 title: "博客不好写"
 layout: post
+date: 2016-01-11
+updated: 2016-07-02
+categories: 杂谈
 comments: true
 description: "博客真的不好写，想写技术不知道写些什么;要写点自我感想又像是在无病呻吟"
 ---

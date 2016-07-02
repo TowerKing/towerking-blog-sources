@@ -1,8 +1,10 @@
 ---
 title: "Butter Knife简介"
 layout: post
+date: 2016-01-12
+updated: 2016-07-02
+categories: Android
 comments: true
-description: "初次使用Butter Knife，感觉挺好使，推荐之"
 ---
 
 最初写Android项目的时候，也不知道可以用什么开源项目，就跟着《第一行代码》里面写的一些东西开始第一个界面。大量的XML文件，Activity中调用控件的时候，用的是下面的代码。

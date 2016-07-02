@@ -1,6 +1,9 @@
 ---
 title: "一个低级错误分析解决过程"
 layout: post
+date: 2015-12-28
+updated: 2016-07-02
+categories: Android
 comments: true
 description: "关于错误的分析与解决方案"
 ---
