@@ -4,7 +4,6 @@ layout: post
 date: 2016-01-01
 updated: 2016-07-02
 categories: 杂谈
-description: "去苹果实体店想买一个Macbook Pro居然会感到紧张，值得深思"
 ---
 
 今天2016年第一天，原本就计划这今天去买一台Macbook Pro回来。我起先在官网选择好Mac，一看要好几天才能到。就决定今天下午就苹果体验店购买，准备买完就回家。

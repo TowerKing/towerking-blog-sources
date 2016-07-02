@@ -5,7 +5,6 @@ date: 2016-01-07
 updated: 2016-07-02
 categories: 杂谈
 comments: true
-description: "个人对加班的一些想法与态度"
 ---
 
 ##### 写在“加班”前的话

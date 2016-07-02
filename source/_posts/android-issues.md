@@ -5,7 +5,6 @@ date: 2015-12-23
 updated: 2016-07-02
 categories: Android
 comments: true
-description: "工作或者学习过程中遇到的关于Android的问题整合"
 ---
 在整合阿里百川时，遇到的两个问题，通过google找到了解决方案。
 1.第一个问题

@@ -4,7 +4,6 @@ layout: post
 date: 2016-01-08
 updated: 2016-07-02
 categories: Android
-description: "MVP的学习，理论上的一些认识"
 ---
 
 MVP已经学习两天，依然不知道如何下手去整一个MVP的Android APP，但是其思想是值得记住的。在后面写代码的时候时刻记住就好，就像脑子中时刻想这命名的重要性以及不要复制自己的原则，在写代码时会刻意的去取个自己容易理解的名字，抑或是看到两段差不多的代码，就想着把公共的部分提炼出来。代码最好也未必就变得特别容易阅读，至少自己在一两个月过后还是能够比较快一点的明白自己在表达是什么，不过也有无法想起的时候。
@@ -25,7 +24,7 @@ MVP已经学习两天，依然不知道如何下手去整一个MVP的Android APP
 
 * Independent of any external agency.
 
-![MVP图解](../../../../res/clean_architecture.png)
+![MVP图解](/images/clean_architecture.png)
 
 具体的请参考[这篇博文](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/).
 

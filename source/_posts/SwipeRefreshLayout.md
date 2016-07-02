@@ -5,7 +5,6 @@ date: 2016-01-15
 updated: 2016-07-02
 categories: Android
 comments: true
-description: "SwipeRefreshLayout程序自动触发，首次加载的时候就可以看到下拉圈"
 ---
 
 关于SwipeRefreshLayout程序自动触发是之前就已经解决的问题，只是当时没有记录的习惯，所以没有记录。今天工作主要是针对之前的项目一些修改，并没有新的知识点获得，就拿这个已经获得的东西来滥竽充数。

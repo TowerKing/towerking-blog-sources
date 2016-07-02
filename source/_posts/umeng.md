@@ -5,7 +5,6 @@ date: 2016-01-06
 updated: 2016-07-02
 categories: Android
 comments: true
-description: "集成友盟时，出现的一个错误"
 ---
 
 今天为公司的Android APP集成友盟的统计功能。于是打开友盟的帮助文档，从头卡开始浏览，发现集成起来比较方便。于是就开始动手实验。没几下，几行代码就搞定集成，剩下的就是测试。

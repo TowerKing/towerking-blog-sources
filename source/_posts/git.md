@@ -5,7 +5,6 @@ date: 2015-12-26
 updated: 2016-07-02
 categories: git
 comments: true
-description: "看完一篇git最佳实践，并理解之后的一些感想"
 ---
 搞计算机开发的，应该都知道Git是个非常好用的代码管理工具。在这篇文章中，我并不是想去阐述其技术有多么优秀，这个在网上随便搜索一下，就能找到一大片，而且其官网上还有一本详尽的书籍进行说明。这篇只是说说我在看完[Git分支最佳实践](http://nvie.com/posts/a-successful-git-branching-model/)之后以及习得其技能后的一些感受。
 

@@ -5,7 +5,6 @@ date: 2016-01-13
 updated: 2016-07-02
 categories: Android
 comments: true
-description: "RecyclerView比ListView更加好用"
 ---
 
 不应该放弃学习的，更不应该放弃学习新知识。因为有时候新的知识点能够帮助我们更好的工作，并提高一定的工作效率。对于Android开发来说，RecyclerView就是这么个控件。它能够完成ListView与GridView的功能，而且还可以完成瀑布流的功能，关键是切换起来非常方便。
