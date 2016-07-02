@@ -70,4 +70,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/TowerKing/towerking.github.io.git
-  branch: gh-pages
+  branch: master
