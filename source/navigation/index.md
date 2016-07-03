@@ -3,11 +3,26 @@ title: 在这里你可以看到我常用的一些链接
 layout: post
 ---
 
+# 电子书
+- [Calibre](https://calibre-ebook.com/whats-new)
+- [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+- [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html#translations)
+
 # 开源项目相关
-- [GestureViews](https://github.com/alexvasilkov/GestureViews) — ImageView and FrameLayout with gestures control and position animation..
-- [Butter Knife](http://jakewharton.github.io/butterknife/) — Field and method binding for Android views
+- [GestureViews](https://github.com/alexvasilkov/GestureViews)
+- [Butter Knife](http://jakewharton.github.io/butterknife/)
 - [2015年十大热门Android开源新项目](http://www.jianshu.com/p/aa7238cd8daf#)
 - [源码解析](http://a.codekk.com/)
+
+# Java相关
+- [并发编程网](http://ifeve.com/)
+
+# Web参考链接
+- [HTML](http://www.w3schools.com/html/default.asp)
+- [CSS](http://www.w3schools.com/css/default.asp)
+- [Learning web development](https://developer.mozilla.org/en-US/Learn)
+- [Google Developers Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
+- [HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp)
 
 # 开发者常常使用的网站
 - [google](https://www.google.com)
@@ -29,9 +44,7 @@ layout: post
 - [草料二维码——能够将文字、网址、名片、图片等内容生成二维码](http://cli.im)
 - [HTML转义字符](http://tool.oschina.net/commons?type=2)
 
-# 个人博客与技术网站
-
-> Android相关
+# Android参考链接
 
 - [郭霖的专栏](http://blog.csdn.net/guolin_blog?viewmode=contents) — 《Android 第一行代码》作者的CSDN博客
 - [Keegan小钢](http://keeganlee.me/) — 内容是关于Android的
@@ -56,11 +69,7 @@ layout: post
 - [androidweekly-国外](http://androidweekly.net/)
 - [Android周报  在InfoQ上的内容](http://www.infoq.com/cn/android-weekly/)
 
-> Java相关
-
-- [并发编程网](http://ifeve.com/)
-
-> 技术网站
+# 技术网站
 
 - [React Native 官方文档中文版](http://wiki.jikexueyuan.com/project/react-native/)
 - [React Native 官方文档英文版](http://facebook.github.io/react-native/docs/getting-started.html)
@@ -70,8 +79,7 @@ layout: post
 - [行走于 Swift 的世界中](http://onevcat.com/2014/06/walk-in-swift/)
 - [知笔墨](http://zhibimo.com/) — 值得拥有
 
-> 其他
-
+# 其他
 - [Hi 冒菜 by qiuyuexp——一个产品经理的个人博客](http://qiuyuexp.com/)
 - [Lucida Life Love Tech——关于算法及其他](http://zh.lucida.me/)
 - [学习学习再学习 —— 微信公共帐号文章链接存档](http://zhibimo.com/books/xiaolai/xiaolai-weixin-article-history)
@@ -85,11 +93,11 @@ layout: post
 - [demo@virushuo](http://blog.devep.net/virushuo/)
 - [薛兆丰作品——关于真实世界的经济分析](http://xuezhaofeng.com/blog/)
 
-> 经验贴
-
+# 经验贴
 - [通过GitHub Pages建立个人站点（详细步骤）](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
 - [学习曲线与Hacking大脑](http://www.haokoo.com/job/3683203.html)
 - [一个优秀的Android应用从建项目开始](http://www.jianshu.com/p/d9e4ddd1c530)
+- [面试感悟-一名3年工作经验的程序员应该具备的技能](http://www.cnblogs.com/xrq730/p/5260294.html)
 
 # 创业投资
 - [YC创业课中文社区](http://www.startupclass.club/)
@@ -97,3 +105,7 @@ layout: post
 - [早期项目股权众筹傻瓜书](http://zhibimo.com/read/xiaolai/crowd-equity-funding/index.html)
 - [投资人在互联网上的公开信息](http://startupboard.sudoboot.com/contacts?page=5)
 - [如何做行业调查](http://help.angelcrunch.com/college_04)
+
+# 英语学习
+- [upodn.com](http://upodn.com/phon.php)
+- [英语英标](http://en-yinbiao.xiao84.com/yinbiaofayin/)
