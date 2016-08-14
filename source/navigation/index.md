@@ -7,6 +7,7 @@ layout: post
 - [Calibre](https://calibre-ebook.com/whats-new)
 - [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
 - [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html#translations)
+- [新生——七年就是一辈子](http://b.xinshengdaxue.com/index.html)
 
 # 开源项目相关
 - [GestureViews](https://github.com/alexvasilkov/GestureViews)
