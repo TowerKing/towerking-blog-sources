@@ -3,6 +3,12 @@ title: 在这里你可以看到我常用的一些链接
 layout: post
 ---
 
+# Java
+- [ImportNew](http://www.importnew.com/)
+- [V2EX](http://www.v2ex.com/)
+- [酷壳](http://coolshell.cn/)
+- [并发编程网](http://ifeve.com/)
+
 # 电子书
 - [Calibre](https://calibre-ebook.com/whats-new)
 - [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
@@ -14,9 +20,6 @@ layout: post
 - [Butter Knife](http://jakewharton.github.io/butterknife/)
 - [2015年十大热门Android开源新项目](http://www.jianshu.com/p/aa7238cd8daf#)
 - [源码解析](http://a.codekk.com/)
-
-# Java相关
-- [并发编程网](http://ifeve.com/)
 
 # Web参考链接
 - [HTML](http://www.w3schools.com/html/default.asp)
@@ -74,8 +77,6 @@ layout: post
 
 - [React Native 官方文档中文版](http://wiki.jikexueyuan.com/project/react-native/)
 - [React Native 官方文档英文版](http://facebook.github.io/react-native/docs/getting-started.html)
-- [ImportNew](http://www.importnew.com/)
-- [V2EX](http://www.v2ex.com/)
 - [Ruby-China](https://ruby-china.org/)
 - [行走于 Swift 的世界中](http://onevcat.com/2014/06/walk-in-swift/)
 - [知笔墨](http://zhibimo.com/) — 值得拥有

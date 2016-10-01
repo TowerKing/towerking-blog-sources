@@ -34,6 +34,7 @@ menu:
   archives: /archives
   tags: /tags
   navigation: /navigation
+  books: /books
   commonweal: /404.html
 
 
@@ -41,6 +42,7 @@ menu:
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
 #   Key is the name of menu item and value is the name of FontAwsome icon. Key is case-senstive.
+#   Website is http://fontawesome.io/icons/
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
   enable: true
@@ -52,6 +54,7 @@ menu_icons:
   archives: archive
   commonweal: heartbeat
   navigation: link
+  books: book
 
 
 
