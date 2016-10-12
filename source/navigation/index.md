@@ -8,6 +8,7 @@ layout: post
 - [V2EX](http://www.v2ex.com/)
 - [酷壳](http://coolshell.cn/)
 - [并发编程网](http://ifeve.com/)
+- [江南白衣，春天的旁边](http://calvin1978.blogcn.com/)
 
 # 电子书
 - [Calibre](https://calibre-ebook.com/whats-new)
