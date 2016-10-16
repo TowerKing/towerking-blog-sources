@@ -28,6 +28,7 @@ layout: post
 - [Learning web development](https://developer.mozilla.org/en-US/Learn)
 - [Google Developers Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
 - [HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp)
+- [JavaScript](http://eloquentjavascript.net/)
 
 # 开发者常常使用的网站
 - [google](https://www.google.com)
