@@ -49,6 +49,7 @@ layout: post
 -   [easyicon一个查询ICON的网站](http://www.easyicon.net/)
 -   [草料二维码——能够将文字、网址、名片、图片等内容生成二维码](http://cli.im)
 -   [HTML转义字符](http://tool.oschina.net/commons?type=2)
+-   [新浪微博短链接生成器](http://www.surl.sinaapp.com/)
 
 # Android参考链接
 
