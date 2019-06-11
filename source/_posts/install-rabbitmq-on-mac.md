@@ -3,6 +3,8 @@ title: "在 Mac 上安装 RabbitMQ"
 layout: post
 categories: RabbitMQ
 description: 说是安装，实际是记录安装过程中遇到的问题，方便日后自己查阅。
+date: 2018-06-03
+updated: 2018-06-03
 comments: false
 ---
 
